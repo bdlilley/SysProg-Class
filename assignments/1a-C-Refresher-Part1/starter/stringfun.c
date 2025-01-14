@@ -15,7 +15,7 @@ int   count_words(char *);
 void  reverse_string(char *);
 void  word_print(char *);
 
-
+// pretend I added some code
 void usage(char *exename){
     printf("usage: %s [-h|c|r|w] \"string\" \n", exename);
     printf("\texample: %s -w \"hello class\" \n", exename);
